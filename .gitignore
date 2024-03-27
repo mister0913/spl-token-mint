@@ -1,0 +1,4 @@
+# normal git ignore file for node projects
+
+.env
+/node_modules
